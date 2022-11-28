@@ -13,7 +13,7 @@
     <artifactId>elasticsearch-customers-api</artifactId>
     <version>1.0.0-SNAPSHOT</version>
     <name>elasticsearch-customers-api</name>
-    <description>Projeto para demonstrar o funcionamento do Elasticsearch com o LocalStack</description>
+    <description>Projeto para demonstrar o funcionamento do Elasticsearch no LocalStack com o Spring Boot e Spring Data</description>
 
     <properties>
         <java.version>17</java.version>
